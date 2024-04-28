@@ -1,6 +1,6 @@
 # Amazon_Sales_Analysis
 # Amazon Sales Analysis Project
-![Banner Image](https://images.app.goo.gl/asjtcnf7W2GsHTeA9)
+![Banner Image](https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FZPQBJEGMOFL3VMERANMGP5NUCU.jpg?auth=159c43553206f2e24d3a43baab8e0609dac08b590a9fe1e0b4323f5619ebeadf&width=1920&quality=80)
 Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
 data from Amazon to extract insights and trends that can help optimize sales strategies,
 understand customer behaviour, and improve business operations.
