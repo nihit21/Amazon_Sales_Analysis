@@ -1,9 +1,9 @@
 # Amazon_Sales_Analysis
 # Amazon Sales Analysis Project
-![Banner Image](https://drive.google.com/file/d/15qa4yL9w59Ql9EZh11nc103_GwZWbHTV/view?usp=sharing)
+![Banner Image](https://images.app.goo.gl/asjtcnf7W2GsHTeA9)
 Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
 data from Amazon to extract insights and trends that can help optimize sales strategies,
-understand customer behavior, and improve business operations.
+understand customer behaviour, and improve business operations.
 ## Introduction
 This project focuses on analyzing a dataset containing Amazon sales records, including
 information such as sales dates, customer details, product categories, and revenue figures. By
