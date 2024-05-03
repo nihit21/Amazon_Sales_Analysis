@@ -1,4 +1,3 @@
-# Amazon_Sales_Analysis
 # Amazon Sales Analysis Project
 ![Banner Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvExa0h4timzDwDUeyp76Ty98Alk-0p8jhZg9m9LgF6A&s)
 Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
